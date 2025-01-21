@@ -15,5 +15,11 @@ function exibirNomeNaListaDoSorteio(nome) {
     let celula = document.createElement("li");
     celula.innerHTML = nome;
     lista.appendChild(celula);
+}
 
+function sortearAmigo() {
+    let indiceAleatorio = parseInt(Math.random() * listaDeAmigos.length);
+    document.getElementById("listaAmigos").setAttribute("style", "display: none");
+    let amigoSorteado = listaDeAmigos[indiceAleatorio];
+    document.getElementById("resultado").innerHTML = `O amigo sorteado foi: ${amigoSorteado}`;
 }
