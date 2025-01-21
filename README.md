@@ -16,3 +16,15 @@ Nesse projeto você pode adicionar os nomes dos seus amigos numa lista e sorteá
 
 ## Como usar
 Clique <a href="https://exemplo.com" target="_blank">aqui</a> para ser redirecionado para o site.
+
+## Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113468374?v=4" width=115><br><sub>Bruno Bandeira</sub>](https://github.com/bruno-bandeirah) |
+| :---: |
+
+## Tecnologias utilizadas
+
+- ``Visual Studio Code``
+- ``JavaScript``
+- ``HTML``
+- ``CSS``
