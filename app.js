@@ -1,9 +1,13 @@
 let listaDeAmigos = [];
 
 function adicionarAmigo() {
-    let nomeDoAmigo = document.getElementById("amigo").value;
-    listaDeAmigos.push(nomeDoAmigo);
-    exibirNomeNaListaDoSorteio(nomeDoAmigo);
+    if(document.getElementById("amigo").value) {
+        let nomeDoAmigo = document.getElementById("amigo").value;
+        listaDeAmigos.push(nomeDoAmigo);
+        exibirNomeNaListaDoSorteio(nomeDoAmigo);
+    } else {
+        alert("Por favor insira um nome válido.");
+    }
 }
 
 function exibirNomeNaListaDoSorteio(nome) {
