@@ -15,9 +15,9 @@ Nesse projeto você pode adicionar os nomes dos seus amigos numa lista e sorteá
 - Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página
 
 ## Como usar
-Clique <a href="https://exemplo.com" target="_blank">aqui</a> para ser redirecionado para o site.
+Clique <a href="https://bruno-bandeirah.github.io/sorteio-do-amigo-secreto/" target="_blank">aqui</a> para ser redirecionado para o site.
 
-## Autores
+## Autor
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113468374?v=4" width=115><br><sub>Bruno Bandeira</sub>](https://github.com/bruno-bandeirah) |
 | :---: |
